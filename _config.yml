@@ -1,0 +1,28 @@
+name: nutrition for performance
+favicon: null
+layout_spectrum: 0.772700825938955
+typography_spectrum: 0.8664708286523819
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.672756816027686
+  lightness: 0.8262363993562758
+  saturation: 0.16444520861841738
+  rhythmicContrast: 0.152095285942778
+purpose: []
